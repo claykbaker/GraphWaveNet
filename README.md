@@ -1,6 +1,6 @@
 ## Graph WaveNet Baseline Model Results
 
-This folder contains the trained baseline model and test results. The implementation is attributed to work from the following paper: `Graph WaveNet for Deep Spatial-Temporal Graph Modeling'[IJCAI 2019] (https://arxiv.org/abs/1906.00121) with citation:
+This folder contains the trained baseline model and test results. The implementation is attributed to work from the following IJCAI 2019 paper: `Graph WaveNet for Deep Spatial-Temporal Graph Modeling' (https://arxiv.org/abs/1906.00121) with citation:
 
 ```bibtex
 @article{wu2019graph,
