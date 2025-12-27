@@ -1,4 +1,4 @@
-## GraphWaveNet (GWNet) Baseline Model Results
+## GraphWaveNet (GWNet) Results
 
 This folder contains results for a trained GWNet model and its incremental improvement. 
 
