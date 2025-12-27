@@ -1,6 +1,8 @@
 ## GraphWaveNet (GWNet) Baseline Model Results
 
-This folder contains a trained GWNet model and test results. The implementation is based on the IJCAI 2019 paper “Graph WaveNet for Deep Spatial-Temporal Graph Modeling” (https://arxiv.org/abs/1906.00121), with the following citation:
+This folder contains results for a trained GWNet model and its incremental improvement. 
+
+The implementation for the former is based on the IJCAI 2019 paper “Graph WaveNet for Deep Spatial-Temporal Graph Modeling” (https://arxiv.org/abs/1906.00121), with the following citation:
 
 ```bibtex
 @article{wu2019graph,
@@ -9,6 +11,17 @@ This folder contains a trained GWNet model and test results. The implementation 
   journal={arXiv preprint arXiv:1906.00121},
   year={2019}
 }
+```
+
+The implementation for the latter is based on the arXiv 2019 paper “Incrementally Improving Graph WaveNet Performance on Traffic Prediction” (https://arxiv.org/abs/1912.07390), with the following citation:
+
+```bibtex
+"@article{shleifer2019incrementally,
+  title={Incrementally improving graph wavenet performance on traffic prediction},
+  author={Shleifer, Sam and McCreery, Clara and Chitters, Vamsi},
+  journal={arXiv preprint arXiv:1912.07390},
+  year={2019}
+}"
 ```
 
 ### Files
